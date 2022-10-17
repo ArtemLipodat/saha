@@ -1,0 +1,13 @@
+$text-color-white: #FFFFFF;
+$text-color-dark: #222222;
+$text-hover: #FFA011;
+
+
+$green: #009900;
+$red: #FF2400;
+
+
+@mixin textSilver {
+  color: #222222;
+  opacity: 0.72;
+}
