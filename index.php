@@ -1,9 +1,6 @@
 <?php  include_once('./templates/header.php'); ?>
 
-  <section class="banner">
-    <img class="w-100" src="./img/slider.png" alt="">
-  </section>
-  <section class="news mt-4">
+  <section class="news">
     <div class="container">
       <div class="d-flex justify-content-between align-items-center">
         <h3 class="h3">Новости</h3>

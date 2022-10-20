@@ -15,7 +15,7 @@
     <div class="d-flex justify-content-between align-items-center">
       <h3 class="h3">Портфолио</h3>
     </div>
-    <div class="row">
+    <div class="row mt-3">
       <div class="col-3">
         что-то будет нет в макете
       </div>

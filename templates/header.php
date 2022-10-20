@@ -60,4 +60,7 @@
         </div>
       </div>
     </nav>
+    <section class="banner">
+    <img class="w-100" src="./img/slider.png" alt="">
+  </section>
     <main class="main">

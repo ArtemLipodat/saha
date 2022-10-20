@@ -12,6 +12,7 @@
   box-shadow: 0px 4px 8px rgba(34, 34, 34, 0.16);
   border-radius: 8px;
   text-decoration: none;
+  border: none;
   &_red{
     background: $red;
   }
@@ -32,6 +33,11 @@
   font-size: 14px;
   color:$text-color-dark;
 }
+
+
+
+
+
 .header{
   &__search{
     form{
@@ -112,6 +118,79 @@
     margin-top: 8px;
   }
 }
+.manufacturer{
+  a{
+    text-decoration: none;
+    margin-bottom: 30px;
+  }
+  .name{
+    font-weight: 600;
+    font-size: 16px;
+    color: $text-color-dark;
+    margin-top: 8px;
+  }
+  .desc{
+    font-weight: 500;
+    font-size: 14px;
+    color: $text-color-dark;
+    margin-top: 8px;
+  }
+}
+.contacts{
+  &__head{
+    font-weight: 700;
+    font-size: 16px;
+    color: $text-color-dark;
+    opacity: 0.8;
+  }
+  &__link{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 120%;
+    color: #222222;
+    text-decoration: none;
+    &:hover{
+      color: $text-color-dark;
+    }
+  }
+  &__link_mini{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 120%;
+    color: #222222;
+    text-decoration: none;
+    &:hover{
+      color: $text-color-dark;
+    }
+  }
+}
+.contact_form{
+  padding: 24px 0;
+  background: rgba(244, 244, 244, 0.4);
+  .title{
+    font-weight: 700;
+    font-size: 24px;
+    color: $text-color-dark;
+  }
+  span{
+    display: block;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 120%;
+    color: $text-color-dark;
+  }
+  input{
+    padding: 8px 12px;
+    background: rgba(34, 34, 34, 0.04);
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 14px;
+    color: #222222;
+    opacity: 0.72;
+    border: none;
+    outline: none;
+  }
+}
 .footer{
   padding: 24px 0;
   &__copy{
@@ -161,8 +240,6 @@
     }
   }
 }
-
-
 .back{
   display: flex;
   align-items: center;
