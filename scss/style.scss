@@ -41,10 +41,11 @@
 .header{
   &__search{
     form{
+      width: 100%;
       position: relative;
       input{
         padding: 8px 12px;
-        width: 378px;
+        width: 100%;
         background: rgba(34, 34, 34, 0.04);
         border-radius: 8px;
         outline: none;
@@ -82,10 +83,11 @@
 }
 .menu{
   background: $green;
+  height: 32px;
   // background-size: 100%;
   a{
     font-weight: 700;
-    padding: 8px 0;
+    padding: 4px 0;
     font-size: 16px;
     color: $text-color-white;
     text-decoration: none;
@@ -93,11 +95,19 @@
       color: $text-color-white;
     }
   }
+  &_mobile{
+    border: none;
+    background: none;
+    margin-left: 30px;
+  }
 }
 .news{
   a{
     text-decoration: none;
     margin-bottom: 30px;
+    &:hover .name{
+      color: #FFA011;
+    }
   }
   .date{
     @include textSilver;
@@ -110,12 +120,29 @@
     font-size: 14px;
     color: $text-color-dark;
     margin-top: 8px;
+    transition: color 0.5s ease;
   }
   .desc{
     font-weight: 500;
     font-size: 14px;
     color: $text-color-dark;
     margin-top: 8px;
+  }
+}
+.sections{
+  a{
+    margin-bottom: 16px;
+    position: relative;
+    &:hover::after{
+      content: '';
+      width: 0;
+      height: 0;
+      border-bottom: 385px solid red;
+      border-left: 100px solid transparent;
+      position: absolute;
+      bottom: 0;
+      right: 12px;
+    }
   }
 }
 .manufacturer{
@@ -265,4 +292,20 @@
 .main{
   padding-top: 30px;
   padding-bottom: 30px;
+}
+.drop_menu{
+  display: none;
+}
+.drop_menu_link{
+  a{
+    display: block;
+    font-weight: 700;
+    font-size: 16px;
+    color: $text-color-dark;
+    text-decoration: none;
+    margin-bottom: 20px;
+    &:hover{
+      color: $text-color-dark;
+    }
+  }
 }

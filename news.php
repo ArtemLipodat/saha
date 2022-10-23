@@ -16,42 +16,42 @@
         <h3 class="h3">Новости</h3>
       </div>
       <div class="row mt-3">
-        <a href="" class="col-2">
+        <a href="" class="col-6 col-sm-6 col-md-4 col-lg-3 col-xl-2 col-xxl-2">
           <img class="w-100" src="./img/news_nophoto.png" alt="">
           <div class="date">07.09.2022</div>
           <div class="name">Название новости в несколько строк, максимум в три строки..</div>
         </a>
-        <a href="" class="col-2">
+        <a href="" class="col-6 col-sm-6 col-md-4 col-lg-3 col-xl-2 col-xxl-2">
           <img class="w-100" src="./img/news_nophoto.png" alt="">
           <div class="date">07.09.2022</div>
           <div class="name">Название новости в несколько строк, максимум в три строки..</div>
         </a>
-        <a href="" class="col-2">
+        <a href="" class="col-6 col-sm-6 col-md-4 col-lg-3 col-xl-2 col-xxl-2">
           <img class="w-100" src="./img/news_nophoto.png" alt="">
           <div class="date">07.09.2022</div>
           <div class="name">Название новости в несколько строк, максимум в три строки..</div>
         </a>
-        <a href="" class="col-2">
+        <a href="" class="col-6 col-sm-6 col-md-4 col-lg-3 col-xl-2 col-xxl-2">
           <img class="w-100" src="./img/news_nophoto.png" alt="">
           <div class="date">07.09.2022</div>
           <div class="name">Название новости в несколько строк, максимум в три строки..</div>
         </a>
-        <a href="" class="col-2">
+        <a href="" class="col-6 col-sm-6 col-md-4 col-lg-3 col-xl-2 col-xxl-2">
           <img class="w-100" src="./img/news_nophoto.png" alt="">
           <div class="date">07.09.2022</div>
           <div class="name">Название новости в несколько строк, максимум в три строки..</div>
         </a>
-        <a href="" class="col-2">
+        <a href="" class="col-6 col-sm-6 col-md-4 col-lg-3 col-xl-2 col-xxl-2">
           <img class="w-100" src="./img/news_nophoto.png" alt="">
           <div class="date">07.09.2022</div>
           <div class="name">Название новости в несколько строк, максимум в три строки..</div>
         </a>
-        <a href="" class="col-2">
+        <a href="" class="col-6 col-sm-6 col-md-4 col-lg-3 col-xl-2 col-xxl-2">
           <img class="w-100" src="./img/news_nophoto.png" alt="">
           <div class="date">07.09.2022</div>
           <div class="name">Название новости в несколько строк, максимум в три строки..</div>
         </a>
-        <a href="" class="col-2">
+        <a href="" class="col-6 col-sm-6 col-md-4 col-lg-3 col-xl-2 col-xxl-2">
           <img class="w-100" src="./img/news_nophoto.png" alt="">
           <div class="date">07.09.2022</div>
           <div class="name">Название новости в несколько строк, максимум в три строки..</div>

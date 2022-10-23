@@ -16,7 +16,7 @@
       <h3 class="h3">Производители</h3>
     </div>
     <div class="row mt-3">
-      <a href="" class="col-4">
+      <a href="" class="col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4 col-xxl-4">
         <div class="d-flex">
           <div class="w-50">
             <img class="w-100" src="/img/news_nophoto.png" alt="">
@@ -27,7 +27,7 @@
           </div>
         </div>
       </a>
-      <a href="" class="col-4">
+      <a href="" class="col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4 col-xxl-4">
         <div class="d-flex">
           <div class="w-50">
             <img class="w-100" src="/img/news_nophoto.png" alt="">
@@ -38,7 +38,7 @@
           </div>
         </div>
       </a>
-      <a href="" class="col-4">
+      <a href="" class="col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4 col-xxl-4">
         <div class="d-flex">
           <div class="w-50">
             <img class="w-100" src="/img/news_nophoto.png" alt="">
@@ -49,7 +49,7 @@
           </div>
         </div>
       </a>
-      <a href="" class="col-4">
+      <a href="" class="col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4 col-xxl-4">
         <div class="d-flex">
           <div class="w-50">
             <img class="w-100" src="/img/news_nophoto.png" alt="">
@@ -60,7 +60,7 @@
           </div>
         </div>
       </a>
-      <a href="" class="col-4">
+      <a href="" class="col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4 col-xxl-4">
         <div class="d-flex">
           <div class="w-50">
             <img class="w-100" src="/img/news_nophoto.png" alt="">
